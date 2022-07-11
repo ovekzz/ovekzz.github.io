@@ -20,9 +20,9 @@ title                    : "ovekz.github.io"
 title_separator          : "-"
 name                     : "ovekz"
 description              : "Posts about coding challenges"
-url                      : "https://ovekz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ovekz.github.io/ovekzz.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ovekz/ovekz.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ovekz/ovekzz.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/carbon.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Carrizo"
-  avatar           : "/assets/images/carbon.png"
+  avatar           : "/assets/images/kevfoto"
   bio              : "Competitive programer"
   location         : "Argentina"
   email            : "n.carrizo.kevin@gmail.com"
