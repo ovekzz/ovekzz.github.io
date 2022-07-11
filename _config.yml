@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ovekz.io"
+title                    : "ovekz.github.io"
 title_separator          : "-"
 name                     : "ovekz"
 description              : "Posts about coding challenges"
-url                      : "https://ovekz.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ovekz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ovekz/ovekz.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : 
