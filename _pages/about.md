@@ -6,10 +6,11 @@ date: 2022-07-11
 ---
 # About me
 
-Hi 👋, my name is Kevin Carrizo (AKA ovekzz) and this is my personal blog where I upload my progress in the journey of code and at least one daily post explaining how i think and solve problems from coding challeges websites using Python as main language.  
+Hi 👋   
+My name is Kevin Carrizo (AKA ovekzz) and this is my personal blog where I upload my progress in the journey of code and at least one daily post explaining how i think and solve problems from coding challeges websites using Python as main language.  
 I will also occasionally post about computer science topics.
 
-![](https://content.techgig.com/photo/76118246/5-personal-characteristics-of-successful-programmers.jpg?119058)
+![](/assets/images/progwithcat.png)
 
 Yes, this is a representation of me... or something like that, but i don't sitting so right.  
 👀 I'm interested in Backend projects and constantly self-learning about software development.  
@@ -25,3 +26,4 @@ It was not a good time for me :(
 
 But this year I back to the University!!!
 I'm currently computer science student in the "Zero + Infinity", the new campus of exact and nature sciences in the UBA (University of Buenos Aires), I love all the subjects that i am going to take and I'm very excited for for all that I will learn, especially about I.A
+![](https://content.techgig.com/photo/76118246/5-personal-characteristics-of-successful-programmers.jpg?119058)
