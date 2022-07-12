@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "https://ovekzz.github.io/"
+title                    : "ovekzz.github.io/"
 title_separator          : "-"
 name                     : "ovekzz"
 description              : "Posts about coding challenges"
@@ -101,12 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Carrizo"
+  name             : "ovekzz"
   avatar           : "/assets/images/kevfoto.jpg"
-  bio              : "Computer Science student""Backend developer""Python developer""Road to competitve programmer"
-  bio              : "Backend developer"
-  bio              : "Python developer"
-  bio              : "Road to competitive programer"
+  bio              : "Computer Science student / Backend developer / Python developer / Road to competitive programming"
   location         : "Argentina"
   email            : "n.carrizo.kevin@gmail.com"
   uri              :
