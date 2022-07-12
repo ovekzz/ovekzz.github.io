@@ -26,5 +26,5 @@ It was not a good time for me :(
 
 ![](/assets/images/ceromasinfinito.jpg)
 
-But this year I back to the University!!!
+But this year I back to the University!!!  
 I'm currently computer science student in the "Zero + Infinity", the new campus of exact and nature sciences in the UBA (University of Buenos Aires), I love all the subjects that i am going to take and I'm very excited for for all that I will learn, especially about I.A
