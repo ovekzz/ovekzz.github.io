@@ -21,7 +21,7 @@ Yes, this is a representation of me... or something like that, but i don't sitti
 
 # Study
 
-In the past I tried to go to the university of systems engineering because it's what I was supposed to do if I liked computer things and coding (I know, bad decision), had many subjects of administration and little programming and eventually I left it...  
+In the past I tried to go to the university of systems engineering because it's what I was supposed to do if I liked computer things and coding (I know, bad decision), had so many subjects of administration and little programming and eventually I left it...  
 It was not a good time for me :(
 
 ![](/assets/images/ceromasinfinito.jpg)
