@@ -104,7 +104,9 @@ author:
   name             : "Kevin Carrizo"
   avatar           : "/assets/images/kevfoto.jpg"
   bio              : "Computer Science student""Backend developer""Python developer""Road to competitve programmer"
-  # "Computer Science student\n""Backend developer\n""Python developer\n""Road to competitve programmer"
+  bio              : "Backend developer"
+  bio              : "Python developer"
+  bio              : "Road to competitive programer"
   location         : "Argentina"
   email            : "n.carrizo.kevin@gmail.com"
   uri              :
