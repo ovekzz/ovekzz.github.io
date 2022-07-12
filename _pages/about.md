@@ -8,7 +8,7 @@ date: 2022-07-11
 
 # About me
 
-Hi 👋   
+Hi! 👋   
 My name is Kevin Carrizo (AKA ovekzz) and this is my personal blog where I upload my progress in the journey of code and at least one daily post explaining how i think and solve problems from coding challeges websites using Python as main language.  
 I will also occasionally post about computer science topics.
 
