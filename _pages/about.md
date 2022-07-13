@@ -27,4 +27,4 @@ It was not a good time for me :(
 ![](/assets/images/ceromasinfinito.jpg)
 
 But this year I came back to the University!!!  
-I'm currently computer science student in the "Cero + Infinito", the new campus of exact and nature sciences in the UBA (University of Buenos Aires), I discover this carrer after thinking a lot what to do with my studies and when i see the study plan the decision was made, I love all the subjects that i am going to take and I'm very excited for for all that I will learn, especially about A.I.
+I'm currently computer science student in the "Cero + Infinito", the new campus of exact and nature sciences in the UBA (University of Buenos Aires), I discover this carrer after thinking a lot what to do with my studies and when i see the study plan the decision was made, I love all the subjects that i am going to take and I'm very excited for all that I will learn, especially about A.I.
